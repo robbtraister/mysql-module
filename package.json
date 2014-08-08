@@ -1,0 +1,24 @@
+{
+	"name": "mysql-module",
+	"version": "0.0.1",
+	"description": "basic MySQL module",
+	"author": {
+		"name": "Robb Traister",
+		"email": "robb.traister@gmail.com"
+	},
+	"main": "server",
+	"directories": {
+		"lib": "./lib"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/robbtraister/mysql-module.git"
+	},
+	"scripts": {
+	},
+	"config": {
+	},
+	"dependencies": {
+		"mysql": "*"
+	}
+}
